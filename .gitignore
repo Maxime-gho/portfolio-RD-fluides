@@ -216,3 +216,32 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Données expérimentales
+data/
+datasets/
+
+# Fichiers de mesures
+*.csv
+*.txt
+*.dat
+*.raw
+*.xlsx
+
+# PIV
+*.vec
+*.vc7
+*.im7
+
+# MATLAB
+*.mat
+
+# Gros fichiers scientifiques
+*.zip
+*.tar
+*.h5
+
+# Résultats temporaires
+results/
+output/
